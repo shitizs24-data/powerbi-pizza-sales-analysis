@@ -32,6 +32,9 @@ The objective of this project is to answer key business questions:
 
 ##  Dashboard Preview
 
+### 🔹 Project Objectives
+![Project Objectives](images/project_objective.png)
+
 ### 🔹 Overall Dashboard
 
 ![Dashboard Overview](images/dashboard_overview.png)
